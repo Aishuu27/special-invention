@@ -1,6 +1,2 @@
-hello world !!! hello everyone
-have a great day take a chill pill take a chill pill
-this is aishwarya here!!
-this is git session
-a line is added here blah blah blah
-ok
+hi all 
+git session is going on
